@@ -7,7 +7,7 @@ Mail-Guide-AI is an intelligent customer service assistant designed to streamlin
 
 ## Key Features
 
-- **Automated Email Classification**: Utilizes machine learning and AI-driven natural language processing to sort emails into predefined sections such as support, sales, feedback, and more.
+- **Automated Email Classification**: Utilizes machine learning and AI-driven natural language processing (NLP) to sort emails into predefined sections such as support, sales, feedback, and more.
 - **Intelligent Response Generation**: Crafts contextually appropriate and responsible replies for each classified section, reducing the need for manual intervention.
 - **Seamless Gmail Integration**: Connects directly to Gmail accounts, fetching emails, processing them, and sending automated responses.
 - **Customizable Categories**: Easily extend or modify the classification rules to fit your unique business needs.
