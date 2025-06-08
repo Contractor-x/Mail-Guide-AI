@@ -4,7 +4,7 @@
 # What is Mail-Guide?
 Mail-Guide-AI is an intelligent customer service assistant designed to streamline and automate email management for Coperate and personal Email accounts. Built with Python and JavaScript, this project leverages advanced AI techniques to classify incoming emails into relevant sections and generate responsible, context-aware responses tailored for each category. Whether you're handling support tickets, customer feedback, or general inquiries, Mail-Guide-AI acts as your smart assistant, ensuring timely and accurate replies, improving customer satisfaction, and reducing manual workload.
 
-## Key Features
+## It Key Features.
 
 - **Automated Email Classification**: Utilizes machine learning and AI-driven natural language processing (NLP) to sort emails into predefined sections such as support, sales, feedback, and more.
 - **Intelligent Response Generation**: Crafts contextually appropriate and responsible replies for each classified section, reducing the need for manual intervention and support.
