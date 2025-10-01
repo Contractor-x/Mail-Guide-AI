@@ -50,7 +50,7 @@ A standout feature of Mail-Guide-AI is its integration with the [Postmark API](h
 
 We welcome contributions! Please open issues for bugs, feature requests, or documentation improvements. Pull requests are also encouraged.
 
-## License
+## License.
 
 This project is licensed under the MIT License.
 
