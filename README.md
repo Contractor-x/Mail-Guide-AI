@@ -11,7 +11,7 @@ Mail-Guide-AI is an intelligent customer service assistant designed to streamlin
 - **Seamless Gmail Integration**: Connects directly to Gmail accounts, fetching emails, processing them, and sending automated responses.
 - **Customizable Categories**: Easily extend or modify the classification rules to fit your unique business requirements.
 
-## Powered by the Postmark API
+## Powered by the Postmark API.
 
 A standout feature of Mail-Guide-AI is its integration with the [Postmark API](https://postmarkapp.com/). The Postmark API is a robust platform for email delivery and processing, and in this project, it plays a central role in handling **inbound mail processing**. Here’s how Mail-Guide-AI leverages Postmark:
 
