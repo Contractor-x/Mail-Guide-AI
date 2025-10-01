@@ -46,7 +46,7 @@ A standout feature of Mail-Guide-AI is its integration with the [Postmark API](h
 5. **Run the Application**  
    - Start the backend server and, if applicable, the frontend interface.
 
-## Contributing
+## Contributing.
 
 We welcome contributions! Please open issues for bugs, feature requests, or documentation improvements. Pull requests are also encouraged.
 
