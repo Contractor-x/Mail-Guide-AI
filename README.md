@@ -20,7 +20,7 @@ A standout feature of Mail-Guide-AI is its integration with the [Postmark API](h
 - **Reliable Parsing**: Postmark’s parsing capabilities extract essential email components (sender, subject, body, attachments), providing Mail-Guide-AI with structured data to classify and respond efficiently.
 - **Scalability & Deliverability**: With Postmark’s reliable infrastructure, Mail-Guide-AI can handle high volumes of incoming mail without compromising speed or accuracy.
 
-## Best Use Cases
+## Best Use Cases.
 
 - Customer support automation for businesses using Gmail.
 - Smart autoresponder for service-based websites.
