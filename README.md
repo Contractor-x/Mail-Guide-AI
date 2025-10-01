@@ -1,4 +1,4 @@
-# Mail-Guide-AI
+7# Mail-Guide-AI
 
 ---
 # What is Mail-Guide?
@@ -57,4 +57,4 @@ This project is licensed under the MIT License.
 ---
 # Empower your customer service inbox with Mail-Guide-AI, combining the smart automation of AI with the reliability of the Postmark API.
 
-Thank you
+Thank you.
