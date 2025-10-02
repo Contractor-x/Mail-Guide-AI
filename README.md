@@ -1,4 +1,4 @@
-7# Mail-Guide-AI
+# Mail-Guide-AI
 
 ---
 # What is Mail-Guide?
